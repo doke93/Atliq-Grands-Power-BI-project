@@ -49,4 +49,4 @@ Microsoft Software Power BI
 ## LinkedIn Post 📲
 [LinkedIn Post]
 ## Youtube Video 🎬
-[Youtube Post]
+[Youtube Post](https://youtu.be/zw8VYpswk0c)
