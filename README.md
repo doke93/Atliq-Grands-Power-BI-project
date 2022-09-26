@@ -49,4 +49,4 @@ Microsoft Software Power BI
 ## LinkedIn Post 📲
 [LinkedIn Post]
 ## Youtube Video 🎬
-[Youtube Post](https://youtu.be/zw8VYpswk0c)
+[Youtube Post]([https://youtu.be/zw8VYpswk0c](https://www.youtube.com/watch?v=zw8VYpswk0c&ab_channel=AbhishekDoke))
