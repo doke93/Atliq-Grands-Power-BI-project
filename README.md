@@ -47,6 +47,6 @@ Microsoft Software Power BI
 - **Delhi** is showing high average rating
 - **Mumbai and Hyderabad** shows high **fall in occupancy** during June 
 ## LinkedIn Post 📲
-[LinkedIn Post]
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6980407019534995456/)
 ## Youtube Video 🎬
 [https://youtu.be/zw8VYpswk0c](https://www.youtube.com/watch?v=zw8VYpswk0c&ab_channel=AbhishekDoke)
